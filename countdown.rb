@@ -13,5 +13,4 @@ def countdown_with_sleep(count)
     count -=1
     sleep(5)
   end
-  puts ""    
 end
